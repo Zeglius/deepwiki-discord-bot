@@ -1,0 +1,10 @@
+[project]
+name = "deepwiki-discord-bot"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "discord-py>=2.6.4",
+    "fastmcp>=2.14.1",
+]
